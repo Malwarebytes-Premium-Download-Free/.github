@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4l9IL6dpSipWtktG5nHXoV2yvh3I0PIC5g&s" alt="Malwarebytes Premium Banner" width="20%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4l9IL6dpSipWtktG5nHXoV2yvh3I0PIC5g&s" alt="Malwarebytes Premium Banner" width="10%" />
 
 <h1 align="center">Malwarebytes Premium Free</h1>
 
@@ -14,7 +14,7 @@
 
 <!-- Top Banner -->
 <p align="center">
-<img src="https://images-bonnier.imgix.net/files/kom/production/2025/03/09190927/malwarebytes-box.jpeg?auto=compress,format&w=1500&fit=fill&crop=focalpoint&fp-x=0.5&fp-y=0.5%201500w" alt="Malwarebytes Premium Banner" width="50%" />
+<img src="https://images-bonnier.imgix.net/files/kom/production/2025/03/09190927/malwarebytes-box.jpeg?auto=compress,format&w=1500&fit=fill&crop=focalpoint&fp-x=0.5&fp-y=0.5%201500w" alt="Malwarebytes Premium Banner" width="40%" />
 
 ---
 
