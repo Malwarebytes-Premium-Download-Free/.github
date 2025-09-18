@@ -14,7 +14,7 @@
 
 <!-- Top Banner -->
 <p align="center">
-<img src="https://e7.pngegg.com/pngimages/419/734/png-clipart-malwarebytes-antivirus-software-computer-virus-computer-software-computer-computer-malware-thumbnail.png" alt="Malwarebytes Premium Banner" width="80%" />
+<img src="https://images-bonnier.imgix.net/files/kom/production/2025/03/09190927/malwarebytes-box.jpeg?auto=compress,format&w=1500&fit=fill&crop=focalpoint&fp-x=0.5&fp-y=0.5%201500w" alt="Malwarebytes Premium Banner" width="80%" />
 
 ---
 
