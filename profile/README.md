@@ -14,7 +14,7 @@
 
 <!-- Top Banner -->
 <p align="center">
-<img src="https://images-bonnier.imgix.net/files/kom/production/2025/03/09190927/malwarebytes-box.jpeg?auto=compress,format&w=1500&fit=fill&crop=focalpoint&fp-x=0.5&fp-y=0.5%201500w" alt="Malwarebytes Premium Banner" width="70%" />
+<img src="https://images-bonnier.imgix.net/files/kom/production/2025/03/09190927/malwarebytes-box.jpeg?auto=compress,format&w=1500&fit=fill&crop=focalpoint&fp-x=0.5&fp-y=0.5%201500w" alt="Malwarebytes Premium Banner" width="50%" />
 
 ---
 
