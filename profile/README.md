@@ -14,7 +14,7 @@
 
 <!-- Top Banner -->
 <p align="center">
-<img src="https://www.vhv.rs/dpng/d/564-5640610_malwarebytes-anti-malware-premium-2020-hd-png-download.png" alt="Malwarebytes Premium Banner" width="80%" />
+<img src="https://e7.pngegg.com/pngimages/419/734/png-clipart-malwarebytes-antivirus-software-computer-virus-computer-software-computer-computer-malware-thumbnail.png" alt="Malwarebytes Premium Banner" width="80%" />
 
 ---
 
